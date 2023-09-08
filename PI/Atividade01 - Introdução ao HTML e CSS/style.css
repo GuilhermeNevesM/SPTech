@@ -1,0 +1,31 @@
+.caixaLaranja {
+  background-color: #ff7700;
+  width: 500px;
+  height: 500px;
+}
+
+.caixaVerde {
+  background-color: #00ff00;
+  width: 50%;
+  height: 50%;
+}
+
+.paragrafo {
+  color: #ffffff;
+  background-color: #ff0000;
+  font-size: 25px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.caixaAzul {
+  width: 50%;
+  height: 50vh;
+  background-color: rgb(000, 200, 255);
+}
+
+.caixaVermelha {
+  width: 75vw;
+  height: 50%;
+  background-color: rgb(255, 000, 000);
+}
